@@ -1,0 +1,10 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.andrometaLogo {
+    height: 40px;
+    margin-top: 2rem;
+}
