@@ -13,7 +13,7 @@ function Cards() {
       </div>
       <div className="box">
         <h1>Balance Staked</h1>
-        <h3>Your Token Staked</h3>
+        <h3>Your Tokens Staked</h3>
         <h2>0</h2>
         <button type="button" className="btn2">Claim</button>
       </div>
