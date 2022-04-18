@@ -15,7 +15,7 @@ function Cards() {
         <h1>Balance Staked</h1>
         <h3>Your Tokens Staked</h3>
         <h2>0</h2>
-        <button type="button" className="btn2">Claim</button>
+        <button type="button" className="btn2">Unstake</button>
       </div>
       <div className="box">
         <h1>Daily Rewards</h1>
