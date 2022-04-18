@@ -9,7 +9,7 @@ function Cards() {
         <h1>Current Balance</h1>
         <h3>Your Token Balance</h3>
         <h2>0</h2>
-        <button type="button" className="btn2" onClick="/">Claim</button>
+        <button type="button" className="btn2">Claim</button>
       </div>
       <div className="box">
         <h1>Balance Staked</h1>
